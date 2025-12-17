@@ -1,0 +1,1 @@
+# magizh_minds_attendence
