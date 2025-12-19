@@ -6,10 +6,24 @@ ashik
 Dec - 17-2025 
 present :-
  ameenudheen.
- ashik
-
+ ashik,
+  kalai arasu,
+  
  absent:-
  dhaiya,
  ayman kahanam,
- kalai arasu,
+
  roghit
+ 
+Dec-17-2025:-
+
+present:-
+
+ ameenudheen.
+ ashik,
+ kalai arasu,
+ dhaiya,
+ ayman kahanam,
+ roghit
+  
+
